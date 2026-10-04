@@ -1,0 +1,65 @@
+GENOGRAM BUILDER - how to use it
+================================
+
+OPENING IT
+- Double-click "Genogram.html". It opens in your web browser (Safari or Chrome).
+- It works without the internet and nothing gets installed.
+- If the Mac asks which app to open it with, choose Safari.
+
+THE BASICS
+- Click a person's shape to select them. Their details show up on the right.
+- Type their name, birth year and death year there.
+- Under "Add new relative", use the buttons to add a partner, ex-partner,
+  child, adopted child, parents or sibling. They're placed and connected for you.
+- Drag any shape to move it.
+- Scroll to zoom in and out. Drag an empty spot to move around the page.
+- Made a mistake? Click "Undo" at the top.
+
+JOINING TWO PEOPLE WHO ARE ALREADY ON THE CHART
+1. At the top, pick the kind of line from the list next to "Link"
+   (for example "Close", "Conflict", "Married" or "Siblings").
+2. Click "Link".
+3. Click the first person, then click the second person.
+
+ETHNICITY
+- Click a person. Under "Ethnicity", pick from the list, or type your own
+  and click "Add". You can give someone more than one.
+- Click the x on one to remove it.
+- To hide ethnicity on the chart, click "Key & types" and untick
+  "Show ethnicity under names".
+
+SEEING AND CHANGING SOMEONE'S CONNECTIONS
+- Click a person. The "Connections" section on the right lists everyone
+  they're joined to: partners, parents, children, siblings and lines.
+- Change a relationship or line type with its drop-down list, or type
+  the years for a couple.
+- "Reverse" flips which way an arrow points.
+- The x removes that connection (Undo brings it back).
+- Click a name to jump to that person.
+
+MORE THAN ONE LINE BETWEEN TWO PEOPLE
+- Two people can have several connection lines (for example "Close" and
+  "Conflict"). Each one is drawn side by side in its own colour.
+- Click a line, then use "+ Add" under "All lines between these two".
+
+CONDITIONS, LINE TYPES AND BACKGROUND
+- Click "Key & types" at the top.
+- There you can add your own conditions (with a colour), make your own line
+  types, and change the background colour and pattern.
+
+SAVING YOUR WORK  (important)
+- The browser remembers your chart, but to be safe click "Save" at the top.
+  That puts a ".genogram.json" file in your Downloads folder.
+- To keep working on it later, click "Open..." and choose that file.
+
+MAKING A PDF
+- Click "Export PDF..." at the top. A box opens where you choose the paper
+  size and what to include, by ticking or unticking:
+    * the chart itself (with or without the key)
+    * a relationship summary that writes out in words how everyone is
+      related (mother, cousin, in-laws and so on), plus each person's
+      details, couples, children, connection lines, ethnicity and conditions
+    * the guide explaining what every symbol and line means
+- You can also tick "Save the relationship summary as a text file too".
+- Click "Export PDF". The file(s) appear in your Downloads folder.
+- The app remembers your choices for next time.
